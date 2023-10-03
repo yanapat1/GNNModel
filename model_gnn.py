@@ -21,3 +21,8 @@ def google(g):
         q = 1
     return q
 
+
+def monitor(ss,ww) -> str:
+    p = []
+    print('dok')
+    return 'dok'
